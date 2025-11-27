@@ -3,11 +3,12 @@
 
 README.md（本頁）
 
-philosophy.md — 協議哲學與願景  
-core-schema.md — 核心資料結構（建立後加入）  
-trust-control.md — 信任與控制協議（建立後加入）  
-extensions.md — 擴充欄位（選擇性）  
-examples.md — Story JSON 範例（建立後加入）
+[philosophy.md](philosophy.md) — 協議哲學與願景  
+[core-schema.md](core-schema.md) — 核心資料結構（建立後加入）  
+[trust-control.md](trust-control.md) — 信任與控制協議（建立後加入）  
+[extensions.md](extensions.md) — 擴充欄位（選擇性）  
+[examples.md](examples.md) — Story JSON 範例（建立後加入）
+
 
 ---
 
