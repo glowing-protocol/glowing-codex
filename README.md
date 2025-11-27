@@ -1,3 +1,18 @@
+## 📘 Documentation Index  
+這裡是 GLOWING Codex 的文件索引：
+
+README.md（本頁）
+
+philosophy.md — 協議哲學與願景  
+core-schema.md — 核心資料結構（建立後加入）  
+trust-control.md — 信任與控制協議（建立後加入）  
+extensions.md — 擴充欄位（選擇性）  
+examples.md — Story JSON 範例（建立後加入）
+
+---
+
+
+
 # GLOWING Codex  
 ### Official Specification & Core Data Schema  
 *A Web3-native human insight protocol for persistent identity, narrative encoding, and long-term continuity.*
